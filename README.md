@@ -11,14 +11,15 @@ It will definitely be more challenging this year given the number of participant
 
 ## Notable Nights
 
-- Nothing yet...
+- Day 1: Could've gotten < 1 minute on Part 1 but didn't take account the first number; off to a great start.
 
 ## Tasks
 
-| Day | Name                               | Part 1 | Part 2 | Points        | Runtime |
-| --- | :--------------------------------- |:------ |:------ | :------------ | :------ |
-| x   | x                                  | x      | x      | x             | x       |
+| Day | Name                               | Part 1 | Part 2 | Points        | Runtime (ms) |
+| --- | :--------------------------------- |:------ |:------ | :------------ | :----------- |
+| 1   | Sonar Sweep                        | 518th  | 612th  | 0             | 1            |
+| 2   | xxx                                | xxx    | xxx    | x             | x            |
 
 __Current score:__ 0 points
 
-__Total runtime:__ 0 milliseconds
+__Total runtime:__ 1 millisecond(s)
