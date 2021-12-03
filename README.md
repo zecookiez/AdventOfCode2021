@@ -15,11 +15,13 @@ It will definitely be more challenging this year given the number of participant
 | --- | :--------------------------------- |:------ |:------ | :------------ | :----------- |
 | 1   | Sonar Sweep                        | 518th  | 612th  | 0             | 1            |
 | 2   | Dive!                              | 43rd   | 157th  | 58            | 1            |
-| 3   | xxx                                | xxx    | xxx    | xxx           | xxx          |
+| 3   | Binary Diagnostic                  | 171st  | 96th   | 5             | 3            |
+| 4   | xxx                                | xxx    | xxx    | xxx           | xxx          |
 
-__Current score:__ 58 points
 
-__Total runtime:__ 2 milliseconds
+__Current score:__ 63 points
+
+__Total runtime:__ 5 milliseconds
 
 
 ## Thought Recollection
@@ -27,3 +29,6 @@ __Total runtime:__ 2 milliseconds
 - Day 1: Could've gotten < 1 minute on Part 1 but didn't take account the first number; off to a great start.
 
 - Day 2: The fact that `1:25` was rank 43 meant that there are a lot more competitors this year ;-; I'm glad that I'm still decent enough to score some points though.
+
+- Day 3: Rough day, had a lot of comparison bugs on both parts. With the current difficulty curve it seems like this year's challenges will be a lot more difficult...
+
