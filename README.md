@@ -16,12 +16,13 @@ It will definitely be more challenging this year given the number of participant
 | 1   | Sonar Sweep                        | 518th  | 612th  | 0             | 1            |
 | 2   | Dive!                              | 43rd   | 157th  | 58            | 1            |
 | 3   | Binary Diagnostic                  | 171st  | 96th   | 5             | 3            |
-| 4   | xxx                                | xxx    | xxx    | xxx           | xxx          |
+| 4   | Giant Squid                        | 68th   | 29th   | 33 + 72 = 105 | 16           |
+| 5   | xxx                                | xxx    | xxx    | xxx           | xxx          |
 
 
-__Current score:__ 63 points
+__Current score:__ 168 points
 
-__Total runtime:__ 5 milliseconds
+__Total runtime:__ 21 milliseconds
 
 
 ## Thought Recollection
@@ -32,3 +33,4 @@ __Total runtime:__ 5 milliseconds
 
 - Day 3: Rough day, had a lot of comparison bugs on both parts. With the current difficulty curve it seems like this year's challenges will be a lot more difficult...
 
+- Day 4: Finally got a good amount of points today, and I can finally see myself on the global leaderboard now.
