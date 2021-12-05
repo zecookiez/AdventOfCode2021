@@ -17,12 +17,13 @@ It will definitely be more challenging this year given the number of participant
 | 2   | Dive!                              | 43rd   | 157th  | 58            | 1            |
 | 3   | Binary Diagnostic                  | 171st  | 96th   | 5             | 3            |
 | 4   | Giant Squid                        | 68th   | 29th   | 33 + 72 = 105 | 16           |
-| 5   | xxx                                | xxx    | xxx    | xxx           | xxx          |
+| 5   | Hydrothermal Venture               | 6th    | 36th   | 95 + 65 = 160 | 80           |
+| 6   | xxx                                | xxx    | xxx    | xxx           | xxx          |
 
 
-__Current score:__ 168 points
+__Current score:__ 328 points
 
-__Total runtime:__ 21 milliseconds
+__Total runtime:__ 101 milliseconds
 
 
 ## Thought Recollection
@@ -34,3 +35,5 @@ __Total runtime:__ 21 milliseconds
 - Day 3: Rough day, had a lot of comparison bugs on both parts. With the current difficulty curve it seems like this year's challenges will be a lot more difficult...
 
 - Day 4: Finally got a good amount of points today, and I can finally see myself on the global leaderboard now.
+
+- Day 5: First time I hit the single digits! Despite the bugs I had in part 2 I'm quite happy about my performance today.
