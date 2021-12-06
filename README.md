@@ -18,12 +18,13 @@ It will definitely be more challenging this year given the number of participant
 | 3   | Binary Diagnostic                  | 171st  | 96th   | 5             | 3            |
 | 4   | Giant Squid                        | 68th   | 29th   | 33 + 72 = 105 | 16           |
 | 5   | Hydrothermal Venture               | 6th    | 36th   | 95 + 65 = 160 | 80           |
-| 6   | xxx                                | xxx    | xxx    | xxx           | xxx          |
+| 6   | Lanternfish                        | 172nd  | 132nd  | 0             | 1            |
+| 7   | xxx                                | xxx    | xxx    | xxx           | xxx          |
 
 
 __Current score:__ 328 points
 
-__Total runtime:__ 101 milliseconds
+__Total runtime:__ 102 milliseconds
 
 
 ## Thought Recollection
@@ -37,3 +38,5 @@ __Total runtime:__ 101 milliseconds
 - Day 4: Finally got a good amount of points today, and I can finally see myself on the global leaderboard now.
 
 - Day 5: First time I hit the single digits! Despite the bugs I had in part 2 I'm quite happy about my performance today.
+
+- Day 6: Spent too much time trying to understand the problem unfortunately, and ran into a bug time-consuming bug for part 2. Maybe tomorrow will be better.
