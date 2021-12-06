@@ -39,4 +39,4 @@ __Total runtime:__ 102 milliseconds
 
 - Day 5: First time I hit the single digits! Despite the bugs I had in part 2 I'm quite happy about my performance today.
 
-- Day 6: Spent too much time trying to understand the problem unfortunately, and ran into a bug time-consuming bug for part 2. Maybe tomorrow will be better.
+- Day 6: Spent too much time trying to understand the problem unfortunately, and ran into a time-consuming bug for part 2. Maybe tomorrow will be better.
