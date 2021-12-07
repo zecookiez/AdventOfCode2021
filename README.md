@@ -19,7 +19,7 @@ It will definitely be more challenging this year given the number of participant
 | 4   | Giant Squid                        | 68th   | 29th   | 33 + 72 = 105 | 16           |
 | 5   | Hydrothermal Venture               | 6th    | 36th   | 95 + 65 = 160 | 80           |
 | 6   | Lanternfish                        | 172nd  | 132nd  | 0             | 1            |
-| 7   | The Treachery of Whales            | 75th   | N/A    | 26            | 7            |
+| 7   | The Treachery of Whales            | 75th   | 1012th | 26            | 7            |
 | 8   | xxx                                | xxx    | xxx    | xxx           | xxx          |
 
 
