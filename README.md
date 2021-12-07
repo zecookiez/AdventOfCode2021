@@ -19,12 +19,13 @@ It will definitely be more challenging this year given the number of participant
 | 4   | Giant Squid                        | 68th   | 29th   | 33 + 72 = 105 | 16           |
 | 5   | Hydrothermal Venture               | 6th    | 36th   | 95 + 65 = 160 | 80           |
 | 6   | Lanternfish                        | 172nd  | 132nd  | 0             | 1            |
-| 7   | xxx                                | xxx    | xxx    | xxx           | xxx          |
+| 7   | The Treachery of Whales            | 75th   | N/A    | 26            | 7            |
+| 8   | xxx                                | xxx    | xxx    | xxx           | xxx          |
 
 
-__Current score:__ 328 points
+__Current score:__ 354 points
 
-__Total runtime:__ 102 milliseconds
+__Total runtime:__ 109 milliseconds
 
 
 ## Thought Recollection
@@ -40,3 +41,5 @@ __Total runtime:__ 102 milliseconds
 - Day 5: First time I hit the single digits! Despite the bugs I had in part 2 I'm quite happy about my performance today.
 
 - Day 6: Spent too much time trying to understand the problem unfortunately, and ran into a time-consuming bug for part 2. Maybe tomorrow will be better.
+
+- Day 7: Slightly better, but too many competitive people this year meant that a < 2 min part 1 was required for top 100.
