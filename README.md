@@ -21,12 +21,14 @@ It will definitely be more challenging this year given the number of participant
 | 6   | Lanternfish                        | 172nd  | 132nd  | 0             | 1            |
 | 7   | The Treachery of Whales            | 75th   | 1012th | 26            | 7            |
 | 8   | Seven Segment Search               | 83rd   | 193rd  | 18            | 618          |
-| 9   | xxx                                | xxx    | xxx    | xxx           | xxx          |
+| 9   | Smoke Basin                        | 35th   | 22nd   | 66 + 79 = 145 | 30          |
+| 10  | xxx                                | xxx    | xxx    | xxx           | xxx          |
 
+**Note:** Will be posting my solutions slightly later for the next few days due to exams
 
-__Current score:__ 372 points
+__Current score:__ 517 points
 
-__Total runtime:__ 727 milliseconds
+__Total runtime:__ 757 milliseconds
 
 
 ## Thought Recollection
@@ -46,3 +48,5 @@ __Total runtime:__ 727 milliseconds
 - Day 7: Slightly better, but too many competitive people this year meant that a < 2 min part 1 was required for top 100.
 
 - Day 8: Completely blanked out on Part 2, did not realize that a permutation search would've worked :S
+
+- Day 9: Nothing notable, but I got some points which I can't complain.
