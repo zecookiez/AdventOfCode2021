@@ -23,15 +23,17 @@ It will definitely be more challenging this year given the number of participant
 | 8   | Seven Segment Search               | 83rd   | 193rd  | 18            | 618          |
 | 9   | Smoke Basin                        | 35th   | 22nd   | 66 + 79 = 145 | 30           |
 | 10  | Syntax Scoring                     | 4511th | 1941th | 0             | 1            |
-| 11  | Dumbo Octopus                      | 54th   | 43rd   | 47 + 58 = 105 | 13          |
-| 12  | xxx                                | xxx    | xxx    | xxx           | xxx          |
+| 11  | Dumbo Octopus                      | 54th   | 43rd   | 47 + 58 = 105 | 13           |
+| 12  | Passage Pathing                    | 34th   | 22nd   | 67 + 79 = 146 | 139          |
+| 13  | xxx                                | xxx    | xxx    | xxx           | xxx          |
+
 
 
 **Note:** Will be posting my solutions slightly later for the next few days due to exams
 
-__Current score:__ 622 points
+__Current score:__ 768 points
 
-__Total runtime:__ 771 milliseconds
+__Total runtime:__ 910 milliseconds
 
 
 ## Thought Recollection
@@ -58,3 +60,4 @@ __Total runtime:__ 771 milliseconds
 
 - Day 11: Got some points despite being sleep deprived and dealing for finals. Can't complain! 
 
+- Day 12: I'm starting to believe that this year's theme is graph theory. Also secured a position in the top 100 leaderboard by reaching 700 points!
