@@ -26,15 +26,16 @@ It will definitely be more challenging this year given the number of participant
 | 11  | Dumbo Octopus                      | 54th   | 43rd   | 47 + 58 = 105 | 13           |
 | 12  | Passage Pathing                    | 34th   | 22nd   | 67 + 79 = 146 | 139          |
 | 13  | Transparent Origami                | 119th  | 35th   | 66            | 1            |
-| 14  | xxx                                | xxx    | xxx    | xxx           | xxx          |
+| 14  | Extended Polymerization            | 56th   | 33rd   | 45 + 68 = 113 | 3            |
+| 15  | xxx                                | xxx    | xxx    | xxx           | xxx          |
 
 
 
 **Note:** Will be posting my solutions slightly later for the next few days due to exams
 
-__Current score:__ 834 points
+__Current score:__ 947 points
 
-__Total runtime:__ 911 milliseconds
+__Total runtime:__ 914 milliseconds
 
 
 ## Thought Recollection
@@ -64,3 +65,5 @@ __Total runtime:__ 911 milliseconds
 - Day 12: I'm starting to believe that this year's theme is graph theory. Also secured a position in the top 100 leaderboard by reaching 700 points!
 
 - Day 13: Nothing notable.
+
+- Day 14: Enjoyed today's task, found a few observations that would simplify my solution while I was writing Part 2.
