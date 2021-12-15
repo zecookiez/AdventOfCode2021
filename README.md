@@ -27,15 +27,16 @@ It will definitely be more challenging this year given the number of participant
 | 12  | Passage Pathing                    | 34th   | 22nd   | 67 + 79 = 146 | 139          |
 | 13  | Transparent Origami                | 119th  | 35th   | 66            | 1            |
 | 14  | Extended Polymerization            | 56th   | 33rd   | 45 + 68 = 113 | 3            |
-| 15  | xxx                                | xxx    | xxx    | xxx           | xxx          |
+| 15  | Chiton                             | 8th    | 52nd   | 93 + 49 = 142 | 291          |
+| 16  | xxx                                | xxx    | xxx    | xxx           | xxx          |
 
 
 
 **Note:** Will be posting my solutions slightly later for the next few days due to exams
 
-__Current score:__ 947 points
+__Current score:__ 1089 points
 
-__Total runtime:__ 914 milliseconds
+__Total runtime:__ 1205 milliseconds
 
 
 ## Thought Recollection
@@ -67,3 +68,5 @@ __Total runtime:__ 914 milliseconds
 - Day 13: Nothing notable.
 
 - Day 14: Enjoyed today's task, found a few observations that would simplify my solution while I was writing Part 2.
+
+- Day 15: Passed part 1 by only considering moving right and down; got tricked in part 2 immediately. Eigth place for part 1 is pretty cool though.
