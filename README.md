@@ -30,12 +30,16 @@ It will definitely be more challenging this year given the number of participant
 | 15  | Chiton                             | 8th    | 52nd   | 93 + 49 = 142 | 291          |
 | 16  | Packet Decoder                     | 390th  | 272nd  | 0             | 1            |
 | 17  | Trick Shot                         | 365th  | 219th  | 0             | 422          |
-| 18  | xxx                                | xxx    | xxx    | xxx           | xxx          |
+| 18  | Snailfish                          | 221st  | 211th  | 0             | 361          |
+| 19  | Beacon Scanner                     | 150th  | 118th  | 0             | 2645         |
+| 20  | Trench Map                         | 810th  | 606th  | 0             | 1545         |
+| 21  | Dirac Dice                         | 71st   | 14th   | 30 + 87 = 117 | 133          |
+| 22  | Reactor Reboot                     | 78th   | 31st   | 23 + 70 = 93  | > 1 minute   |
+| 23  | xxx                                | xxx    | xxx    | xxx           | xxx          |
 
+__Current score:__ 1299 points
 
-__Current score:__ 1089 points
-
-__Total runtime:__ 1628 milliseconds
+__Total runtime:__ 3667 milliseconds
 
 
 ## Thought Recollection
@@ -73,3 +77,14 @@ __Total runtime:__ 1628 milliseconds
 - Day 16: Can't read instructions fast enough :(
 
 - Day 17: Blundered a lot, including but not limited to solving the wrong problem and setting the wrong range for the velocities.
+
+- Day 18: I have nightmares from snailfish.
+
+- Day 19: Interesting problem, unfortunately lost 30 minutes from a one line error.
+
+- Day 20: Cool twist of the cellular automaton problems :)
+
+- Day 21: Finally broke my streak and got some points on the leaderboard :) 
+
+- Day 22: My solution takes a good minute to run even with pypy, not looking forward to optimizing it :)
+
