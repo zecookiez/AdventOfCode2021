@@ -46,3 +46,36 @@ is the answer (the full number is 79997391969649)
 
 For the minimum you do the same but minimize with 1s instead of 9s
 """
+
+# Program to evaluate the input
+
+INPUT = [7,9,9,9,7,3,9,1,9,6,9,6,4,9]
+vars = {i:0 for i in "wxyz"}
+
+def ev(x):
+    if x in "wxyz": return vars[x]
+    return int(x)
+
+for line in open("inputs/day24.txt", "r").readlines():
+    line = line[:-1]
+    if "inp" in line:
+        _, a = line.split()
+        vars[a] = INPUT.pop(0)
+    else:
+        _, a, b = line.split()
+        b = ev(b)
+        if "add" in line:
+            vars[a] += b
+        elif "mul" in line:
+            vars[a] *= b
+        elif "eql" in line:
+            vars[a] = int(vars[a] == b)
+        else:
+            if "div" in line:
+                assert b != 0
+                vars[a] //= b
+            elif "mod" in line:
+                assert vars[a] >= 0 and b > 0
+                vars[a] %= b
+
+print(vars)

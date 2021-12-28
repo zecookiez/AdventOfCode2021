@@ -37,13 +37,13 @@ It will definitely be more challenging this year given the number of participant
 | 22  | Reactor Reboot                     | 78th   | 31st   | 23 + 70 = 93  | 619          |
 | 23  | Amphipod                           | 1484th | 595th  | 0             | 12340 + 8610 |
 | 24  | Arithmetic Logic Unit              | 31st   | 26th   | 70 + 75 = 145 | 0            |
-| 25  | Sea Cucumber                       | 124th  | 112th  | 0             | xxx          |
+| 25  | Sea Cucumber                       | 124th  | 112th  | 0             | 1254         |
 
 __Score:__ 1444 points
 
 __Rank:__ 37th
 
-__Total runtime:__ 25236 milliseconds
+__Total runtime:__ 26490 milliseconds
 
 ## Final Thoughts 
 
