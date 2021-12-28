@@ -35,7 +35,7 @@ It will definitely be more challenging this year given the number of participant
 | 20  | Trench Map                         | 810th  | 606th  | 0             | 1545         |
 | 21  | Dirac Dice                         | 71st   | 14th   | 30 + 87 = 117 | 133          |
 | 22  | Reactor Reboot                     | 78th   | 31st   | 23 + 70 = 93  | 619          |
-| 23  | Amphipod                           | 1484th | 595th  | 0             | xxx          |
+| 23  | Amphipod                           | 1484th | 595th  | 0             | 12340 + 8610 |
 | 24  | Arithmetic Logic Unit              | 31st   | 26th   | 70 + 75 = 145 | 0            |
 | 25  | Sea Cucumber                       | 124th  | 112th  | 0             | xxx          |
 
@@ -43,7 +43,7 @@ __Score:__ 1444 points
 
 __Rank:__ 37th
 
-__Total runtime:__ 4286 milliseconds
+__Total runtime:__ 25236 milliseconds
 
 ## Final Thoughts 
 
