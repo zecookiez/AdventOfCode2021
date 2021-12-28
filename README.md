@@ -45,6 +45,14 @@ __Rank:__ 37th
 
 __Total runtime:__ 26490 milliseconds
 
+## Calendar Art
+
+<p align="center" width="100%">
+  <i>Credits to Eric Wastl (the creator of AOC) for the amazing ASCII calendar art!</i> <br>
+  <img align="center" src="art.png"> 
+</p>
+
+
 ## Final Thoughts 
 
 Overall I did better than last year and achieved some pretty good ranks on a few days. I'm pretty stoked about my performance this year, but the lack of sleep + exams kind of killed my mood a bit :c 
